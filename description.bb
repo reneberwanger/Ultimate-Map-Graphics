@@ -15,7 +15,7 @@ This mod transforms the look of the Crusader Kings 3 map, providing a more refin
 
 [h1]If you subscribe and approve, please like and favorite[/h1]
 
-[h2]The main changes include:[/h2]
+[h2]Key Features:[/h2]
 
 [list]
 [*][b]No Performance Hits:[/b] No performance changes. We are using pure vanilla base code with tweaks and also removed a lot of textures.
@@ -29,7 +29,17 @@ This mod transforms the look of the Crusader Kings 3 map, providing a more refin
 [*][b]Various Clutter Borders Removed:[/b] Several visual clutter borders that polluted the map's aesthetics have been removed for a cleaner and more pleasant view.
 [/list]
 
-Enhance your Crusader Kings 3 experience with this visual mod that refines every detail of the map!
+[h2]Load Order:[/h2]
+
+[list]
+[*]This Mod
+[*]Choose one of the following:
+  [list]
+  [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3309089235]Victoria II Map Font[/url]
+  [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3309090752]Morris Roman Black Map Font[/url]
+  [/list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3309086465]Remove White Borders[/url]
+[/list]
 
 [h2]Recommended Mod to Use Together[/h2]
 

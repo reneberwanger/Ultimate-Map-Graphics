@@ -13,7 +13,7 @@ This mod transforms the look of the Crusader Kings 3 map, providing a more refin
 
 # If you subscribe and approve, please like and favorite
 
-## The main changes include:
+## Key Features:
 
 - **No Performance Hits:** No performance changes. We are using pure vanilla base code with tweaks and also removed a lot of textures.
 - **More Elegant Borders:** The map borders have been redesigned to be more elegant and pleasing to the eye.
@@ -25,7 +25,13 @@ This mod transforms the look of the Crusader Kings 3 map, providing a more refin
 - **Darker Paper Sea:** Includes a darker sea on the paper map, taken from the [Darker Paper Sea (ironman)](https://steamcommunity.com/sharedfiles/filedetails/?id=2542054854) mod.
 - **Various Clutter Borders Removed:** Several visual clutter borders that polluted the map's aesthetics have been removed for a cleaner and more pleasant view.
 
-Enhance your Crusader Kings 3 experience with this visual mod that refines every detail of the map!
+## Load Order:
+
+- This Mod
+- Choose one of the following:
+  - [Victoria II Map Font](https://steamcommunity.com/sharedfiles/filedetails/?id=3309089235)
+  - [Morris Roman Black Map Font](https://steamcommunity.com/sharedfiles/filedetails/?id=3309090752)
+- [Remove White Borders](https://steamcommunity.com/sharedfiles/filedetails/?id=3309086465)
 
 ## Recommended Mod to Use Together
 
