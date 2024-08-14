@@ -1,0 +1,11 @@
+NGraphics = {
+	FLAT_MAP_HEIGHT = 3.92
+	FLAT_MAP_FADE_SPEED = 2			# How fast to fade to/from flat map state
+	FLAT_MAP_ZOOM_STEP = 19			# At which zoom step to fade to flat map
+}
+
+NMapName = {
+	NAME_FONT_SIZE = 150				# Font size used for drawing the map names
+	MIN_OPACITY = 0.9				# minimum opacity. Names hidden by draw distance will still fade to 0
+	MAX_OPACITY = 1
+}

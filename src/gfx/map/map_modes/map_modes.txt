@@ -64,8 +64,8 @@
 @filled_far_edge_sharpness = 					@filled_mid_edge_sharpness
 @filled_far_edge_alpha = 						@filled_mid_edge_alpha
 @filled_far_edge_color_mult = 					@filled_mid_edge_color_mult
-@filled_far_before_lighting_blend = 			0.9
-@filled_far_after_lighting_blend = 				0.7
+@filled_far_before_lighting_blend = 			1
+@filled_far_after_lighting_blend = 				1
 
 # Filled Pre Flat Map
 @pre_flat_map_gradient_alpha_inside = 			@filled_far_gradient_alpha_inside

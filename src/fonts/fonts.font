@@ -193,17 +193,17 @@ fontfiles = {
 
 	group = {
 		languages = { "l_english" "l_french" "l_german" "l_spanish" }
-		files = { "fonts/timesbd.ttf" "fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf" "fonts/MonomakhUnicode/MonomakhUnicode.otf" "fonts/Noto_Sans_SC/NotoSansSC-Medium.otf" "fonts/Korean_fontset/GunglipbakmulgwanClassicB.ttf" }
+		files = { "fonts/MorrisRoman-Black.ttf" "fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf" "fonts/MonomakhUnicode/MonomakhUnicode.otf" "fonts/Noto_Sans_SC/NotoSansSC-Medium.otf" "fonts/Korean_fontset/GunglipbakmulgwanClassicB.ttf" }
 	}
 
 	group = {
 		languages = { "l_russian" }
-		files = { "fonts/timesbd.ttf" "fonts/MonomakhUnicode/MonomakhUnicode.otf" "fonts/mapfont/Paradox_King_Script.otf" "fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf" "fonts/Noto_Sans_SC/NotoSansSC-Medium.otf" "fonts/Korean_fontset/GunglipbakmulgwanClassicB.ttf" }
+		files = { "fonts/MonomakhUnicode/MonomakhUnicode.otf" "fonts/mapfont/Paradox_King_Script.otf" "fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf" "fonts/Noto_Sans_SC/NotoSansSC-Medium.otf" "fonts/Korean_fontset/GunglipbakmulgwanClassicB.ttf" }
 	}
 
 	group = {
 		languages = { "l_simp_chinese" }
-		files = { "fonts/MoeLI.ttf" "fonts/jap.ttf" "fonts/Noto_Sans_SC/NotoSansSC-Medium.otf" "fonts/mapfont/Paradox_King_Script.otf" "fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf" "fonts/MonomakhUnicode/MonomakhUnicode.otf" "fonts/Korean_fontset/GunglipbakmulgwanClassicB.ttf" }
+		files = { "fonts/Noto_Sans_SC/NotoSansSC-Medium.otf" "fonts/mapfont/Paradox_King_Script.otf" "fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf" "fonts/MonomakhUnicode/MonomakhUnicode.otf" "fonts/Korean_fontset/GunglipbakmulgwanClassicB.ttf" }
 	}
 
 	group = {
@@ -275,7 +275,9 @@ font = {
 	name = "MapFont"
 
 	fontstyle = {
-		style = regular
 		fontfiles = "Paradox_King_Script"
+		color = black
+		thickness = 1
+			offset = 0.12
 	}
 }
